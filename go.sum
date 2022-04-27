@@ -1,0 +1,12 @@
+github.com/codemodify/systemkit-appserver v1.9.3 h1:eLRDyKxp+0UF7jRRZG5UI0MXROeKkT90BwUDt7zC+C0=
+github.com/codemodify/systemkit-appserver v1.9.3/go.mod h1:sPrHW9lLrC2Mf6QYRE5haw2SL2GOn4YZmIOX2nz9YlQ=
+github.com/codemodify/systemkit-appserver-http v1.9.3 h1:Xgmb/7cVmzMX9k1IsMlORmv26hLIXVKUV9MNmQo/qzU=
+github.com/codemodify/systemkit-appserver-http v1.9.3/go.mod h1:nVJ9SW6TCtLY3eIeOdcsuDHMVf2HyOPd4YnsdT312EM=
+github.com/codemodify/systemkit-appserver-mixed v1.9.3 h1:uC5LYRS5t6aDM3LGjQa3JbzSsoayj5B95tIrhFFRFAQ=
+github.com/codemodify/systemkit-appserver-mixed v1.9.3/go.mod h1:uKTV9vftLkRyeqoHoUL9VoG25HL5Lmc6kLm+pnGlEts=
+github.com/codemodify/systemkit-logging v1.9.3 h1:ZcKRdKSnQErYriY7WTMreuEyw7aoMO+9m/QRm3aM11E=
+github.com/codemodify/systemkit-logging v1.9.3/go.mod h1:aTT5ZIgAiVURSNMcmXFPfnTfq+af5T+xrpf0Q5sNmNU=
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/rs/cors v1.7.0 h1:+88SsELBHx5r+hZ8TCkggzSstaWNbDvThkVK8H6f9ik=
+github.com/rs/cors v1.7.0/go.mod h1:gFx+x8UowdsKA9AchylcLynDq+nNFfI8FkUZdN/jGCU=
